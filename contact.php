@@ -4,7 +4,7 @@ $page = 'Contact';
 
 
 <?php include './header.php'; ?>
-<?php include './menu.php'; ?>
+	<?php include './menu.php'; ?>
 
 	<p>
 		Nous sommes ouvert de 8h <br>
@@ -29,9 +29,4 @@ $page = 'Contact';
 		<br>
 		<input type="submit" value="Valider" />
 	</form>
-
-
-	<?php include './footer.php'; ?>
-</body>
-
-</html>
+<?php include './footer.php'; ?>
