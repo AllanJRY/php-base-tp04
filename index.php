@@ -9,9 +9,8 @@ $page = 'Accueil';
 		<title>TP 01</title>
 	</head>
 	<body>
-		<h1>Accueil</h1>
-		
-		<?php include './menu.php' ?>
+		<?php include './header.php'; ?>
+		<?php include './menu.php'; ?>
 		
 		<img src="images/banniere.jpg" alt="bannière" width="500"/>
 		

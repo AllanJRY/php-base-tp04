@@ -9,9 +9,8 @@ $page = 'Contact';
 		<title>TP 01</title>
 	</head>
 	<body>
-		<h1>Contact</h1>
-		
-		<?php include './menu.php' ?>
+		<?php include './header.php'; ?>
+		<?php include './menu.php'; ?>
 
 		<p>
 			Nous sommes ouvert de 8h <br>

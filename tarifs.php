@@ -9,9 +9,8 @@ $page = 'Tarifs';
 		<title>TP 01</title>
 	</head>
 	<body>
-		<h1>Tarifs</h1>
-		
-		<?php include './menu.php' ?>
+		<?php include './header.php'; ?>
+		<?php include './menu.php'; ?>
 
 		<ul>
 			<li>
