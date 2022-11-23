@@ -11,6 +11,8 @@ $page = 'Tarifs';
 	<body>
 		<h1>Tarifs</h1>
 		
+		<?php include './menu.php' ?>
+
 		<ul>
 			<li>
 				Coupe mulet <br>

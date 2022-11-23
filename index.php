@@ -11,10 +11,7 @@ $page = 'Accueil';
 	<body>
 		<h1>Accueil</h1>
 		
-		<ul>
-			<li><a href="tarifs.html">Tarifs</a></li>
-			<li><a href="contact.html">Contact</a></li>
-		</ul>
+		<?php include './menu.php' ?>
 		
 		<img src="images/banniere.jpg" alt="bannière" width="500"/>
 		

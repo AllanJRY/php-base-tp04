@@ -11,6 +11,8 @@ $page = 'Contact';
 	<body>
 		<h1>Contact</h1>
 		
+		<?php include './menu.php' ?>
+
 		<p>
 			Nous sommes ouvert de 8h <br>
 			à 12h et de 14h à 18h du <br>
