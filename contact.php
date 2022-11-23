@@ -2,17 +2,9 @@
 $page = 'Contact';
 ?>
 
-<!DOCTYPE html>
-<html lang="fr">
 
-<head>
-	<meta charset="utf-8" />
-	<title>TP 01</title>
-</head>
-
-<body>
-	<?php include './header.php'; ?>
-	<?php include './menu.php'; ?>
+<?php include './header.php'; ?>
+<?php include './menu.php'; ?>
 
 	<p>
 		Nous sommes ouvert de 8h <br>
