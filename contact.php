@@ -1,3 +1,7 @@
+<?php
+$page = 'Contact';
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 	<head>

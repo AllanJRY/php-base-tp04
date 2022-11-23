@@ -1,3 +1,7 @@
+<?php
+$page = 'Tarifs';
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
