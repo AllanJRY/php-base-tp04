@@ -24,5 +24,6 @@ $page = 'Accueil';
 			blablalbla blabla bla  blabla
 		</p>
 
+		<?php include './footer.php'; ?>
 	</body>
 </html>

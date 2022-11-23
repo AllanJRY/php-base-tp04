@@ -24,5 +24,7 @@ $page = 'Tarifs';
 				<img src="images/coupe_bol.jpg" alt="coupe bol" width="150"/>
 			</li>
 		</ul>
+
+		<?php include './footer.php'; ?>
 	</body>
 </html>

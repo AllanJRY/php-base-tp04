@@ -28,5 +28,7 @@ $page = 'Contact';
 				<td>coif@gmail.com</td>
 			</tr>
 		</table>
+
+		<?php include './footer.php'; ?>
 	</body>
 </html>
